@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="connecting">Recherche de votre montre connectée en cours...</string>
+    <string name="connected">À n\'importe quel moment, dites à votre montre \"OK Google, lance Wanted\" pour retrouver votre smartphone.</string>
+    <string name="notconnected">Impossible de trouver votre montre connectée. Sans montre Android Wear, cette application est inutile.</string>
+    <string name="about">À propos</string>
+</resources>

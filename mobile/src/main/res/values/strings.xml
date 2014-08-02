@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="connecting">Searching your smartwatch...</string>
+    <string name="connected">At any time, tell to your watch \"OK Google, start Wanted\" to find your smartphone.</string>
+    <string name="notconnected">Can\'t find your smartwatch. Without Android Wear smartwatch, this app is useless.</string>
+    <string name="about">About</string>
+</resources>
